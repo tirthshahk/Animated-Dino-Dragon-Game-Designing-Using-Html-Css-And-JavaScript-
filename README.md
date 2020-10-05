@@ -30,7 +30,7 @@ I created an animated dino dragon game using html css and javascript
 body{
     background-color: red;
     overflow: hidden;
-}
+} 
 .gameContainer{
     background-image: url(bg.png);
     background-repeat: no-repeat;

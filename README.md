@@ -1,7 +1,3 @@
-# Animated-Dino-Dragon-Game-Designing-Using-Html-Css-And-JavaScript-
-I created an animated dino dragon game using html css and javascript 
-
-
 
 ----------------  JAVA SCRIPT CODE ----------------
 

@@ -20,7 +20,6 @@ I created an animated dino dragon game using html css and javascript
       </div>
 </body>
 </html>
-
 -------- CSS Code -----------------------------
 
 *{
@@ -30,7 +29,7 @@ I created an animated dino dragon game using html css and javascript
 body{
     background-color: red;
     overflow: hidden;
-} 
+}
 .gameContainer{
     background-image: url(bg.png);
     background-repeat: no-repeat;
@@ -106,7 +105,6 @@ body{
         left: -10vw;
     }
 }
-
 
 ----------------  JAVA SCRIPT CODE ----------------
 
@@ -184,7 +182,6 @@ setInterval(() => {
 function updateScore(score) {
     scoreCont.innerHTML = "Your Score: " + score
 }
-
 
 ---------------------------------------------------------------------------------------------------------
 
